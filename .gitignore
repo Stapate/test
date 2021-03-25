@@ -1,8 +1,14 @@
-# Dependencies
-.psci_modules
-bower_components
-node_modules
+<!DOCTYPE html>
 
-# Generated files
-.psci
-output
+<head>
+<meta charset="utf-8">
+<title> About Stapate </title>
+</head>
+
+<html>
+<body>
+
+<h1> Who is Stapate? </h1>
+
+</body>
+</html>
